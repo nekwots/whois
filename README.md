@@ -18,9 +18,11 @@ Zscaler Security Certified Cloud Professional | https://www.zscaler.com
    A proven expertise across the full Enterprise Architecture stack. A proven track record as a Technical Lead and Consultant for key company initiatives, specializing in the design of resilient, secure architectures and the mentorship of high-performing technical teams across global time zones. 
 
    I have the mindset of a #lifehacker with these core principles.
-- Efficiency Over Perfection: Perfection is the goal but timelines require efficiency. Life hacking encourages you to focus on getting things done effectively and swiftly. This approach is the means to balance success with progress.
+- Efficiency Over Perfection: prioritizing efficiency over perfection. Often, we get bogged down by the desire to do things flawlessly. However, life hacking encourages you to focus on getting things done effectively and swiftly. After all, the goal isn’t perfection; it’s progress.  
 - Experimentation and Adaptation: willingness to experiment and adapt. Life hacking is all about trying different strategies and fine-tuning them based on what works best for you. This approach cultivates a mindset of continuous improvement and encourages you to learn from both successes and failures.
 - Prioritization of Tasks: Effective life hacking hinges on the ability to prioritize tasks. Identifying what’s most important allows you to allocate your time and energy efficiently. By focusing on high-impact tasks, you can maximize your productivity and achieve your goals faster.ise hardware to cloud-native ecosystems.
+
+Core Vaules: Integrity / Respect / Teamwork / Commitment / Mentoring / Humility / Kindness
    
 #
 # Work
@@ -51,16 +53,15 @@ QAD  | Santa Barbara, CA | https://www.qad.com
 
 #
 # Skills
-- All versions of Microsoft Windows and related Microsoft technologies such as: AD/DNS, DHCP, Group Policy, WUS, SCCM, Bitlocker, LAPS, etc...
+- All versions of Microsoft Windows and related Microsoft technologies such as: AD/DNS, DHCP, Group Policy, WSUS, SCCM, Bitlocker, LAPS, etc...
 - Linux Ubuntu, Debian, Kali, ParrotSec, Amazon, Oracle
-- Networking: RDP, SSH, DNS, TCP/IP, SFTP, SCP, HTTP(S), SSL, TLS, SMTP
+- Networking: RDP, SSH, DNS, DNSSEC, DoH, TCP/IP, UDP, SMB, SNMP, SFTP, SCP, HTTP(S), SSL, TLS, SMTP, IPsec, SSLVPN, Wireguard
 - Virtual computing platforms such as: VMware, Citrix, Cameyo, Oracle, Proxmox, Microsoft Hyper-V & WSL, KASM Workspaces
 - Cloud ecosystems such as: Google GCP, Google Workspace, Cloudflare, Azure Intune, Amazon AWS, Oracle Cloud, Alibaba, Akamai Linode
 - Scripting & Automation: Powershell, vbscript, Batch, Bash, VS Code, API Webhooks, Terraform, Github, Gitlab
 - Security frameworks: NIST, Mitre Att$ck
-- Security policies: MFA, SSO, ZTNA, SOC, SIEM, SOAR, SOP, Playbooks
-- Security practices: Zero Trust, Least Privilege Access, Privilege Access Management, Just In-time Access, One Time Passwords
-- Security operations: Threat Detection / Analysis / Response / Remediation, Threat Hunting, IOC, Forensics, Pentesting 
+- Security policies: MFA, SSO, ZTNA, SOC, SIEM, SOAR, SOP, Playbooks, Incident Response
+- Security practices: Defense-In-Depth, Zero Trust, Least Privilege Access, Privilege Access Management, Just In-time Access, One Time Passwords, Browser Isolation
+- Security operations: Threat Detection / Analysis / Response / Remediation, Threat Hunting, IOC, Forensics, Pentesting, OPSec, Red/Blue/Purple teaming 
 - AI systems: Google Gemini / NotebookLM
-- SME for: Digicert PKI, Google GCP/Domains/DNS, Cloudflare DNS, F5 BigIP, Citrix VDI, Cameyo VDI, Safeguard PAM SPP & SPS, Darktrace Network Detect, Crowdstrike Falcon, Exabeam SIEM, Rapid7 Insight VM
-
+- SME for: Digicert PKI, Google GCP/Domains/DNS, Cloudflare DNS, Quad9 DNS, F5 BigIP, Citrix VDI, Cameyo VDI, Safeguard PAM SPP & SPS, Darktrace Network Detect, Crowdstrike Falcon, Exabeam SIEM, Rapid7 Insight VM
