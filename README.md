@@ -26,17 +26,16 @@ Core Vaules: Integrity / Respect / Teamwork / Commitment / Mentoring / Humility 
    
 #
 # Work
-
 QAD  | Santa Barbara, CA | https://www.qad.com 
 
-2004 – 2010 | Senior IT Systems Engineer | Corporate IT Datacenter Operations 
-- Responsible for the architecture, reliability, and day-to-day management of the physical and virtual infrastructure of the on-premise datacenter.  I was heavily focused on the maintenance of  physical hardware in the datacenter.
+2022 – 2026 | Principal IT Security Engineer | IT Security & Architecture 
+- Responsible for the evolution and maturity for architecture and security of the hybrid private/public infrastructure. I was heavily focused on designing and building a "security first" fabric that spans from on-premise hardware to cloud-native ecosystems.
 
 2010 – 2022 | Principal IT Systems Engineer | Global IT Datacenter Operations 
 - Responsible for the architecture, reliability, and day-to-day management of the physical and virtual infrastructure for hybrid private/public infrastructure.  I was heavily focused on the transformation of global datacenters to public cloud computing and bridging the gap between traditional physical infrastructure and modern cloud-native ecosystems.
-  
-2022 – 2026 | Principal IT Security Engineer | IT Security & Architecture 
-- Responsible for the evolution and maturity for architecture and security of the hybrid private/public infrastructure. I was heavily focused on designing and building a "security first" fabric that spans from on-premise hardware to cloud-native ecosystems.
+
+2004 – 2010 | Senior IT Systems Engineer | Corporate IT Datacenter Operations 
+- Responsible for the architecture, reliability, and day-to-day management of the physical and virtual infrastructure of the on-premise datacenter.  I was heavily focused on the maintenance of  physical hardware in the datacenter.
 #
 # Acknowledgements
 2010 – QAD Key Contributor 
