@@ -20,7 +20,7 @@ Zscaler Security Certified Cloud Professional | https://www.zscaler.com
    I have the mindset of a #lifehacker with these core principles.
 - Efficiency Over Perfection: prioritizing efficiency over perfection. Often, we get bogged down by the desire to do things flawlessly. However, life hacking encourages you to focus on getting things done effectively and swiftly. After all, the goal isn’t perfection; it’s progress.  
 - Experimentation and Adaptation: willingness to experiment and adapt. Life hacking is all about trying different strategies and fine-tuning them based on what works best for you. This approach cultivates a mindset of continuous improvement and encourages you to learn from both successes and failures.
-- Prioritization of Tasks: Effective life hacking hinges on the ability to prioritize tasks. Identifying what’s most important allows you to allocate your time and energy efficiently. By focusing on high-impact tasks, you can maximize your productivity and achieve your goals faster.ise hardware to cloud-native ecosystems.
+- Prioritization of Tasks: Effective life hacking hinges on the ability to prioritize tasks. Identifying what’s most important allows you to allocate your time and energy efficiently. By focusing on high-impact tasks, you can maximize your productivity and achieve your goals faster.
 
 Core Vaules: Integrity / Respect / Teamwork / Commitment / Mentoring / Humility / Kindness
    
