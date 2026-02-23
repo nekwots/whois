@@ -22,7 +22,7 @@ Zscaler Security Certified Cloud Professional | https://www.zscaler.com
 - Experimentation and Adaptation: willingness to experiment and adapt. Life hacking is all about trying different strategies and fine-tuning them based on what works best for you. This approach cultivates a mindset of continuous improvement and encourages you to learn from both successes and failures.
 - Prioritization of Tasks: Effective life hacking hinges on the ability to prioritize tasks. Identifying what’s most important allows you to allocate your time and energy efficiently. By focusing on high-impact tasks, you can maximize your productivity and achieve your goals faster.
 
-Core Vaules: Integrity / Respect / Teamwork / Commitment / Mentoring / Humility / Kindness
+Core Values: Integrity / Respect / Teamwork / Commitment / Mentoring / Humility / Kindness
    
 #
 # Work
